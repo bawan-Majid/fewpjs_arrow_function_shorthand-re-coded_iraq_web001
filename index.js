@@ -11,4 +11,9 @@ square(5);
 let add = (x,y) => {
   return x + y;
 }
-add(3,4);
+add(9,12);
+
+let subtract = (x,y) => {
+  return x - y;
+}
+add(8,3);
